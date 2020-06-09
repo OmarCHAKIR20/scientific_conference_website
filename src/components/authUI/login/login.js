@@ -54,6 +54,16 @@ const Login = ({stateProp}, props) => {
 
 }
 
+const mapStateToProps=state=>{
+  return{
+      // state
+  }
+}
 
+const mapDispatchToprops=dispatch=>{
+  return{
+    //
+  }
+}
 
 export default (Login);
